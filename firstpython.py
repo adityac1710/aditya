@@ -7,3 +7,5 @@ print("Just adding something again")
 
 
 print("Just adding something again")
+
+a = 4
